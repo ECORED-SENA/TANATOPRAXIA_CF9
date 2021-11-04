@@ -77,7 +77,7 @@
           p.mb-4 El embalsamamiento es un proceso que se ha practicado en diferentes culturas con el objetivo de postergar la descomposición de un cadáver a través de diferentes formas y métodos que han estado en historia del hombre. Este procedimiento puede considerándose una de las artes de mayor antigüedad practicada por los hombres.          
             br
             br
-            |En la actualidad, el embalsamamiento se práctica a partir de unas acciones tradicionales,  normatividad vigente y protocolos institucionales que tratan de atender las necesidades de los deudos.
+            |En la actualidad, el embalsamamiento se práctica a partir de unas acciones tradicionales,  normatividad vigente y protocolos institucionales que tratan de atender las necesidades de los deudos. Para conocer más sobre este tema consulte el siguiente recurso.
           
           a.boton.color-acento-botones(:href="obtenerLink('/downloads/Verificacion_Tanatopraxia.pdf')" target="_blank" type="application/pdf")
             span Descargar
