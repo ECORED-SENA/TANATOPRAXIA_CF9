@@ -13,7 +13,7 @@
         figure
           img(src="@/assets/curso/tema_4/img_4_01.png", alt="alt").m-auto  
       .col-lg-8.position-relative       
-        p.mb-0 En los procesos de calidad de cualquier organización es importante hacer un seguimiento detallado al antes, durante y después de la entrega de un beneficio y solución de una necesidad, obtenido por un cliente por un intercambio económico. Esta situación también se presenta en el servicio funerario cuando el deudo o cliente establece una comunicación con la empresa funeraria para dar atención a un requerimiento de adecuación de un cuerpo fallecido. El cadáver es custodiado por la empresa funeraria para el desarrollo de la tanatopraxia, esta se desarrolla en tres momentos: 
+        p.mb-0 En los procesos de calidad de cualquier organización #[strong es importante hacer un seguimiento detallado al antes, durante y después de la entrega de un beneficio y solución de una necesidad], obtenido por un cliente por un intercambio económico. Esta situación también se presenta en el servicio funerario cuando el deudo o cliente establece una comunicación con la empresa funeraria para dar atención a un requerimiento de adecuación de un cuerpo fallecido. El cadáver es custodiado por la empresa funeraria para el desarrollo de la tanatopraxia, esta se desarrolla en tres momentos: 
 
     .row.justify-content-center.bg--grayHalf.pt-5.mb-5
       .col-auto.mb-5(data-aos="flip-right") 

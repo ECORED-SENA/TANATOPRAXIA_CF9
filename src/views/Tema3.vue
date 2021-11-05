@@ -21,10 +21,10 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/RFWax6M079k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
 
     .row.justify-content-center.align-items-center.bg--gray.mb-5
-      .col-lg-5.mb-5.mb-lg-0
+      .col-lg-5.mb-5.mb-lg-0(data-aos="zoom-in")  
         figure
           img(src="@/assets/curso/tema_3/img_3_02.png", alt="alt").m-auto
-      .col-lg-7
+      .col-lg-7.onTop
         .bg--white.mb-4.neg--left
           p.mb-0 Retomando el video anterior, las empresas hoy en día tienen sistemas de información que ayudan a desarrollar sus procesos de forma más efectiva porque la disponibilidad de información puede estar en cualquier momento en la organización. Con el surgimiento de las Tecnologías de la Información y la Comunicación las empresas están haciendo transformaciones digitales, que cada vez ayudan a generar más valor a la empresa y a los clientes.
         p Por otra parte, el uso de la información en cualquier proceso de una empresa cuando unos clientes acceden a un servicio o producto está protegida por la normatividad vigente en Colombia. Esta reconoce y protege el derecho de las personas a conocer, rectificar y actualizar su información almacenada en base de datos o archivos que sean susceptibles de tratamiento por parte de entidades privadas o públicas. Algunas normativas que la legitiman son: #[strong.clr--green 1) Constitución Política de Colombia, en su Artículo 15, 2) Ley 1266 de 2008, en sus Artículos 2 y 4, 3) Ley 1581 de 2012 y 4) Decreto 1377 de 2013].
