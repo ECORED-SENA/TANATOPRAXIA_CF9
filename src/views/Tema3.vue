@@ -8,12 +8,13 @@
         span 3
       h1 Tratamiento de datos en el sector funerario
 
-    .row.justify-content-center.align-items-center.bg--gray.mb-5
-      .col-lg-4.position-relative.mb-4.mb-lg-0(data-aos="zoom-in")    
-        figure
-          img(src="@/assets/curso/tema_3/img_3_01.png", alt="alt").m-auto  
-      .col-lg-8.position-relative       
-        p.mb-0 Durante el servicio funerario surgen diferentes procesos que están vinculados con el uso de información del cuerpo fallecido y los deudos. Todo ello conlleva a personalizar el traslado de un resto mortal; pero toda la información que surge tiene un tratamiento en la gestión de la información y protección de esta según la normatividad colombiana. Empiece por identificar cómo se puede poner en funcionamiento el sistema de información en una organización para que ayude a generar valor en los procesos que desencadena una solicitud, para ello observe el siguiente recurso educativo.
+    .bg--gray.mb-5
+      .row.justify-content-center.align-items-center
+        .col-lg-4.position-relative.mb-4.mb-lg-0(data-aos="zoom-in")    
+          figure
+            img(src="@/assets/curso/tema_3/img_3_01.png", alt="alt").m-auto  
+        .col-lg-8.position-relative       
+          p.mb-0 Durante el servicio funerario surgen diferentes procesos que están vinculados con el uso de información del cuerpo fallecido y los deudos. Todo ello conlleva a personalizar el traslado de un resto mortal; pero toda la información que surge tiene un tratamiento en la gestión de la información y protección de esta según la normatividad colombiana. #[strong Empiece por identificar cómo se puede poner en funcionamiento el sistema de información en una organización] para que ayude a generar valor en los procesos que desencadena una solicitud, para ello observe el siguiente recurso educativo.
 
 
     figure.mb-5
@@ -26,12 +27,12 @@
           img(src="@/assets/curso/tema_3/img_3_02.png", alt="alt").m-auto
       .col-lg-7.onTop
         .bg--white.mb-4.neg--left
-          p.mb-0 Retomando el video anterior, las empresas hoy en día tienen sistemas de información que ayudan a desarrollar sus procesos de forma más efectiva porque la disponibilidad de información puede estar en cualquier momento en la organización. Con el surgimiento de las Tecnologías de la Información y la Comunicación las empresas están haciendo transformaciones digitales, que cada vez ayudan a generar más valor a la empresa y a los clientes.
+          p.mb-0 Retomando el video anterior, las empresas hoy en día tienen sistemas de información que ayudan a desarrollar sus procesos de forma más efectiva porque la disponibilidad de información puede estar en cualquier momento en la organización. #[strong Con el surgimiento de las Tecnologías de la Información y la Comunicación las empresas están haciendo transformaciones digitales], que cada vez ayudan a generar más valor a la empresa y a los clientes.
         p Por otra parte, el uso de la información en cualquier proceso de una empresa cuando unos clientes acceden a un servicio o producto está protegida por la normatividad vigente en Colombia. Esta reconoce y protege el derecho de las personas a conocer, rectificar y actualizar su información almacenada en base de datos o archivos que sean susceptibles de tratamiento por parte de entidades privadas o públicas. Algunas normativas que la legitiman son: #[strong.clr--green 1) Constitución Política de Colombia, en su Artículo 15, 2) Ley 1266 de 2008, en sus Artículos 2 y 4, 3) Ley 1581 de 2012 y 4) Decreto 1377 de 2013].
       .col-12.mt-4
         .row.justify-content-center.align-items-center          
           .col-lg-7.order-2.order-lg-1
-            p En consonancia con lo anterior, se ha preguntado ¿qué es un dato personal?, ¿qué es eso de la protección de los datos? A pesar de que todos los días se entrega información a terceros para que sea guardada en bases de datos, existen muchas personas que desconocen el derecho que tienen las instituciones que recolectan su información. Como proveedor de información tiene el derecho de conocer, actualizar, rectificar y eliminar los datos dados a una entidad pública o privada. En este sentido, cuando le solicita información a un deudo sobre la persona fallecida y otros, es importante comunicarles que sus datos serán tratados para los fines del procedimiento solicitado. 
+            p En consonancia con lo anterior, se ha preguntado #[strong ¿qué es un dato personal?, ¿qué es eso de la protección de los datos?] A pesar de que todos los días se entrega información a terceros para que sea guardada en bases de datos, existen muchas personas que desconocen el derecho que tienen las instituciones que recolectan su información. Como proveedor de información tiene el derecho de conocer, actualizar, rectificar y eliminar los datos dados a una entidad pública o privada. En este sentido, cuando le solicita información a un deudo sobre la persona fallecida y otros, es importante comunicarles que sus datos serán tratados para los fines del procedimiento solicitado. 
           .col-lg-5.mb-5.mb-lg-0.order-1.oder-lg-2(data-aos="zoom-in") 
             figure
               img(src="@/assets/curso/tema_3/img_3_03.png", alt="alt").m-auto 

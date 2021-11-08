@@ -18,11 +18,11 @@
       .col-lg-5.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="zoom-in")        
         img(src="@/assets/curso/tema_1/img_1_01.svg", alt="alt").img--500.m-auto
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.gx-0.mb-5
       .col-lg-5.mb-4.mb-lg-0(data-aos="zoom-in")        
         img(src="@/assets/curso/tema_1/img_1_02.png", alt="alt").img--500.m-auto
-      .col-lg-7
-        p Luego de entender lo anterior, #[strong.clr--green es importante detenerse en el concepto de ética desde la perspectiva de Escobar (2000)], quien afirma que la ética se define porque su objeto de estudio es la moral; la ética es la disciplina filosófica que estudia el comportamiento moral de un hombre en sociedad. Esta afirmación se acerca a la moral, entendida como un conjunto de normas y formas de vida, a través de las cuales un ser humano aspira a realizar el valor de lo bueno, de manera que la ética abarca dos aspectos: 
+      .col-lg-7.tarjeta--gris.p-4
+        p Luego de entender lo anterior, #[strong.clr--green es importante detenerse en el concepto de ética desde la perspectiva de Escobar (2000)], quien afirma que la ética se define porque su objeto de estudio es la moral; #[strong la ética es la disciplina filosófica que estudia el comportamiento moral de un hombre en sociedad.] Esta afirmación se acerca a la moral, entendida como un conjunto de normas y formas de vida, a través de las cuales un ser humano aspira a realizar el valor de lo bueno, de manera que la ética abarca dos aspectos: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5(data-aos="flip-left")
@@ -38,14 +38,14 @@
           h3.text-center.clr--green Carácter racional
           p.text-center Está determinado por la razón, lo que le proporciona a las personas causas, razones y el porqué de su conducta (Subercaseaux Instituto de Banca y Finanzas, s.f.).
 
-    p.mb-4 Según Norman (1998) la ética es “el intento de comprender la naturaleza de los valores humanos, de cómo se debe vivir y qué constituye una conducta correcta”. En consecuencia, la ética se puede definir como una forma de vivir de una persona, limitada por conductas clasificadas entre lo que se debe y no debe hacer en un contexto sociocultural. Estas formas de actuación están reguladas por la sociedad e instituciones, y en consecuencia, en el sector funerario se extienden estas premisas porque el relacionamiento de los funcionarios con los requerimientos de los deudos exige unas prácticas comportamentales acordes a la situación. Estas se encuentran reguladas por la empresa funeraria y por el contexto cultural donde se realiza el servicio funerario.
+    p.mb-4 Según Norman (1998) la ética es #[strong “el intento de comprender la naturaleza de los valores humanos, de cómo se debe vivir y qué constituye una conducta correcta”]. En consecuencia, la ética se puede definir como una forma de vivir de una persona, limitada por conductas clasificadas entre lo que se debe y no debe hacer en un contexto sociocultural. Estas formas de actuación están reguladas por la sociedad e instituciones, y en consecuencia, en el sector funerario se extienden estas premisas porque el relacionamiento de los funcionarios con los requerimientos de los deudos exige unas prácticas comportamentales acordes a la situación. Estas se encuentran reguladas por la empresa funeraria y por el contexto cultural donde se realiza el servicio funerario.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-5.mb-4.mb-lg-0(data-aos="zoom-in")     
         img(src="@/assets/curso/tema_1/img_1_05.svg", alt="alt").img--500.m-auto
       .col-xl-7
         .cajon.bg--green.p-4.mb-4 
-          p Las personas e instituciones que desarrollan sus actividades laborales en el sector funerario están permeadas por aquellas conductas que están pensadas desde la moral, porque existen principios, valores y normas que regulan las buenas prácticas de las personas en el momento que surge un requerimiento de traslado de un cadáver o una honra fúnebre. Estas conductas es importante verlas desde la óptica de la ética profesional, que se ocupa por establecer principalmente los valores, principios y normas subyacentes a las responsabilidades y al ejercicio de una profesión (Davis, 2004 como se citó en Illinois Institute of Technology, s.f.). Si bien, existe una ética profesional está no se encuentra desligada de la ética personal, en ambas subyace unas conductas esperadas en la sociedad.
+          p Las personas e instituciones que desarrollan sus actividades laborales en el sector funerario están permeadas por aquellas conductas que están pensadas desde la moral, porque existen principios, valores y normas que regulan las buenas prácticas de las personas en el momento que surge un requerimiento de traslado de un cadáver o una honra fúnebre. Estas conductas es importante verlas desde la óptica de la ética profesional, que se ocupa por establecer principalmente los valores, principios y normas subyacentes a las responsabilidades y al ejercicio de una profesión #[strong.clr--green (Davis, 2004 como se citó en Illinois Institute of Technology, s.f.)]. Si bien, existe una ética profesional está no se encuentra desligada de la ética personal, en ambas subyace unas conductas esperadas en la sociedad.
 
         p En el contexto funerario pensar en la ética se aproxima a la forma cómo relacionarse con los deudos y aquellas personas que se involucran en el proceso de traslado de un cadáver. Se debe hacer que en el servicio funerario se dé la mejor versión del proceso de tanatopraxia. Algunas prácticas morales que se sugieren en el servicio funerario están relacionadas con los siguientes valores que son importantes manifestar en su comportamiento. Estos son:
 
@@ -130,7 +130,7 @@
     .row.justify-content-start.bannerTema2--bg.py-5.mb-5            
       .col-lg-8
         .crd--banner
-          p.mb-0 Recuerde que es el custodio del cuerpo y que la familia depositó toda su confianza para el cuidado de su familiar. #[strong.clr--green Su práctica debe desarrollarse en torno a la dignidad y al respeto de la muerte]. 
+          p.mb-0 Recuerde que #[strong es el custodio del cuerpo y que la familia depositó toda su confianza] para el cuidado de su familiar. #[strong.clr--green Su práctica debe desarrollarse en torno a la dignidad y al respeto de la muerte]. 
 
     p.mb-5 Para finalizar, en el proceso de embalsamamiento, que contempla tres momentos, desinfección, preservación química y estética del cuerpo sin vida se recomienda: 
 
@@ -139,32 +139,32 @@
       
       .crd.crd--bottomLine.m-4   
         img(src="@/assets/curso/tema_1/img_1_14.svg", alt="alt", style="width:90px;").m-auto.mb-4
-        p Mantener el cuidado del cuerpo sin vida a partir de la elección de los mejores procesos estéticos.
+        p.text-center Mantener el cuidado del cuerpo sin vida a partir de la elección de los mejores procesos estéticos.
       
       .crd.crd--bottomLine.crd--bottomLine_red.m-4           
         img(src="@/assets/curso/tema_1/img_1_15.svg", alt="alt", style="width:90px;").m-auto.mb-4
-        p Mantener el cuidado del cuerpo sin vida a partir de la elección de los mejores procesos estéticos.
+        p.text-center Cubrir los genitales del cadáver con una tela.
 
      
       .crd.crd--bottomLine.m-4      
         img(src="@/assets/curso/tema_1/img_1_16.svg", alt="alt", style="width:90px;").m-auto.mb-4
-        p Mantener el cuidado del cuerpo sin vida a partir de la elección de los mejores procesos estéticos.
+        p.text-center No hacer fotografías y videos sin la autorización previa de la familia. 
 
      
       .crd.crd--bottomLine.crd--bottomLine_red.m-4       
         img(src="@/assets/curso/tema_1/img_1_17.svg", alt="alt", style="width:90px;").m-auto.mb-4
-        p Mantener el cuidado del cuerpo sin vida a partir de la elección de los mejores procesos estéticos.
+        p.text-center No divulgar las condiciones de la muerte o patologías existentes en el cuerpo sin vida. 
 
       
       .crd.crd--bottomLine.m-4           
         img(src="@/assets/curso/tema_1/img_1_18.svg", alt="alt", style="width:90px;").m-auto.mb-4
-        p Mantener el cuidado del cuerpo sin vida a partir de la elección de los mejores procesos estéticos.
+        p.text-center Custodiar las prendas y elementos que traiga consigo el cuerpo sin vida. 
 
     .bloque-texto-a.bg--greenGray.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between        
         .col-lg-8.mb-5.mb-lg-0.order-2.order-lg-1 
           .bloque-texto-a__texto.position-relative.p-4
-            p.mb-5.mb-lg-4 Con todo lo dicho hasta aquí, se ha hecho una aproximación a la muerte como un fenómeno que debe ser contemplado desde la ética, y por ende desde la moral. Algunos autores han abordado este fenómeno a partir de reflexiones, uno de ellos ha sido Bonete (2002) quien expresa en su texto “Ética de la muerte: de la Bioética a la Tánato-ética” que el proceso de morir merece unos principios éticos y criterios morales para orientar las decisiones que se han de tomar en torno a quién está cerca de la muerte y las dimensiones éticas que rodean el hecho de morir. Por ello, se sugiere hacer la lectura del texto de Bonete, haciendo clic en el siguiente icono. . 
+            p.mb-5.mb-lg-4 Con todo lo dicho hasta aquí, se ha hecho una aproximación a la muerte como un fenómeno que debe ser contemplado desde la ética, y por ende desde la moral. Algunos autores han abordado este fenómeno a partir de reflexiones, uno de ellos ha sido Bonete (2002) quien expresa en su texto “Ética de la muerte: de la Bioética a la Tánato-ética” que el proceso de morir merece unos principios éticos y criterios morales para orientar las decisiones que se han de tomar en torno a quién está cerca de la muerte y las dimensiones éticas que rodean el hecho de morir. Por ello, se sugiere hacer la lectura del texto de Bonete, haciendo clic en el siguiente icono. 
             .row.Bottom-rigth
               .col-auto
                 a.anexo.mb-4.mb-lg-0(href="https://revistas.um.es/daimon/article/view/14801" target="_blank")
@@ -174,6 +174,8 @@
                     p Enlace web. Ética de la muerte: de la bio-ética a la tánato-ética                    
         .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="zoom-in")           
           img(src="@/assets/curso/tema_1/img_1_19.svg", alt="alt").m-auto.img--500
+
+    p Para concluir, la ética profesional en el sector funerario debe mantener la premisa de igualdad y honestidad para que las personas, independiente de su condición económica, puedan acceder a los servicios y crear un vínculo de confianza para atender los requerimientos de los deudos según sus creencias.
       
 
             

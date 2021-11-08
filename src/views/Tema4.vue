@@ -8,39 +8,41 @@
         span 4
       h1 Verificación y ajustes: embalsamamiento
 
-    .row.justify-content-center.align-items-center.bg--gray
-      .col-lg-4.position-relative.mb-4.mb-lg-0(data-aos="zoom-in") 
-        figure
-          img(src="@/assets/curso/tema_4/img_4_01.png", alt="alt").m-auto  
-      .col-lg-8.position-relative       
-        p.mb-0 En los procesos de calidad de cualquier organización #[strong es importante hacer un seguimiento detallado al antes, durante y después de la entrega de un beneficio y solución de una necesidad], obtenido por un cliente por un intercambio económico. Esta situación también se presenta en el servicio funerario cuando el deudo o cliente establece una comunicación con la empresa funeraria para dar atención a un requerimiento de adecuación de un cuerpo fallecido. El cadáver es custodiado por la empresa funeraria para el desarrollo de la tanatopraxia, esta se desarrolla en tres momentos: 
+    .bg--gray
+      .row.justify-content-center.align-items-center
+        .col-lg-4.position-relative.mb-4.mb-lg-0(data-aos="zoom-in") 
+          figure
+            img(src="@/assets/curso/tema_4/img_4_01.png", alt="alt").m-auto  
+        .col-lg-8.position-relative       
+          p.mb-0 En los procesos de calidad de cualquier organización #[strong es importante hacer un seguimiento detallado al antes, durante y después de la entrega de un beneficio y solución de una necesidad], obtenido por un cliente por un intercambio económico. Esta situación también se presenta en el servicio funerario cuando el deudo o cliente establece una comunicación con la empresa funeraria para dar atención a un requerimiento de adecuación de un cuerpo fallecido. El cadáver es custodiado por la empresa funeraria para el desarrollo de la tanatopraxia, esta se desarrolla en tres momentos: 
 
-    .row.justify-content-center.bg--grayHalf.pt-5.mb-5
-      .col-auto.mb-5(data-aos="flip-right") 
-        .crd.crd--topLine.bg_topLine_01 
-          figure.mb-4
-            img(src="@/assets/curso/tema_3/img_3_04.svg", alt="alt",style="width:90px;").m-auto
-          h4.text-center Desinfección
-          p.text-center Desinfección del cuerpo e instrumentos para la eliminación de la mayoría de los agentes patógenos que pueden afectar la salud pública y obstaculizar la preservación química.   
-          .hr_divider.m-auto
-      .col-auto.mb-5(data-aos="flip-right") 
-        .crd.crd--topLine.bg_topLine_02
-          figure.mb-4
-            img(src="@/assets/curso/tema_3/img_3_05.svg", alt="alt",style="width:90px;").m-auto
-          h4.text-center Preservación química
-          p.text-center Acondicionamiento del cuerpo sin vida para retrasar la descomposición por un tiempo determinado que permita la realización de los rituales.   
-          .hr_divider.m-auto
-      .col-auto.mb-5(data-aos="flip-right") 
-        .crd.crd--topLine.bg_topLine_03
-          figure.mb-4
-            img(src="@/assets/curso/tema_3/img_3_06.svg", alt="alt",style="width:90px;").m-auto
-          h4.text-center Tanatoestética
-          p.text-center Acomodación de las posiciones y las facciones del fallecido, con el propósito de darle una apariencia natural que conlleve a generar una memoria en los deudos.   
-          .hr_divider.m-auto
+    .bg--grayHalf.pt-5.mb-5
+      .row.justify-content-center
+        .col-auto.mb-5(data-aos="flip-right") 
+          .crd.crd--topLine.bg_topLine_01 
+            figure.mb-4
+              img(src="@/assets/curso/tema_3/img_3_04.svg", alt="alt",style="width:90px;").m-auto
+            h4.text-center Desinfección
+            p.text-center Desinfección del cuerpo e instrumentos para la eliminación de la mayoría de los agentes patógenos que pueden afectar la salud pública y obstaculizar la preservación química.   
+            .hr_divider.m-auto
+        .col-auto.mb-5(data-aos="flip-right") 
+          .crd.crd--topLine.bg_topLine_04
+            figure.mb-4
+              img(src="@/assets/curso/tema_3/img_3_05.svg", alt="alt",style="width:90px;").m-auto
+            h4.text-center Preservación química
+            p.text-center Acondicionamiento del cuerpo sin vida para retrasar la descomposición por un tiempo determinado que permita la realización de los rituales.   
+            .hr_divider.m-auto
+        .col-auto.mb-5(data-aos="flip-right") 
+          .crd.crd--topLine.bg_topLine_03
+            figure.mb-4
+              img(src="@/assets/curso/tema_3/img_3_06.svg", alt="alt",style="width:90px;").m-auto
+            h4.text-center Tanatoestética
+            p.text-center Acomodación de las posiciones y las facciones del fallecido, con el propósito de darle una apariencia natural que conlleve a generar una memoria en los deudos.   
+            .hr_divider.m-auto
 
     .row.justify-content-center.align-items-center.mb-5        
       .col-lg-8.position-relative.mb-4.mb-lg-0       
-        p.mb-0 Los anteriores momentos que se ejecutan en un cuerpo sin vida son inherentes a la naturaleza de la tanatopraxia, los cuales se ejecutan desde unos procedimientos dados en una orden de servicio, y son avalados por la normatividad vigente en el contexto colombiano. Cuando se han terminado estos procesos de adecuación del cadáver es necesario la verificación de las prácticas técnicas que han sucedido en el laboratorio, con la intención de ajustar alguna intervención hecha por el tanatopractor, según los requerimientos de los clientes y los protocolos de embalsamamiento. 
+        p.mb-0 Los anteriores momentos que se ejecutan en un cuerpo sin vida son inherentes a la naturaleza de la tanatopraxia, #[strong los cuales se ejecutan desde unos procedimientos dados en una orden de servicio, y son avalados por la normatividad vigente en el contexto colombiano]. Cuando se han terminado estos procesos de adecuación del cadáver es necesario la verificación de las prácticas técnicas que han sucedido en el laboratorio, con la intención de ajustar alguna intervención hecha por el tanatopractor, según los requerimientos de los clientes y los protocolos de embalsamamiento. 
       .col-lg-4.position-relative.mb-4.mb-lg-0(data-aos="zoom-in")  
         figure
           img(src="@/assets/curso/tema_4/img_4_02.png", alt="alt").m-auto
@@ -83,10 +85,11 @@
             span Descargar
             i.fas.fa-file-download
 
-    .row.justify-content-start.bannerTema4--bg.mb-5            
-      .col-lg-8
-        .crd--banner
-          p.mb-0 Para finalizar esta experiencia de aprendizaje es importante mencionar que #[strong la verificación del servicio funerario no solo se enfoca en los procedimientos dados en el laboratorio], sino que estos también #[strong.clr--green deben corroborarse desde el traslado inicial], cuando un funcionario atiende un requerimiento e inicia procesos administrativos y normativos para adecuar un cuerpo sin vida, y en la disposición final del cuerpo, ya sea por inhumación o cremación. #[strong.clr--red Recuerde que todo el proceso desarrollado en el servicio funerario debe asegurar la salud pública y la adecuación del cuerpo sin vida para las honras fúnebres.] 
+    .bannerTema4--bg     
+      .row.justify-content-start     
+        .col-lg-8
+          .crd--banner
+            p.mb-0 Para finalizar esta experiencia de aprendizaje es importante mencionar que #[strong la verificación del servicio funerario no solo se enfoca en los procedimientos dados en el laboratorio], sino que estos también #[strong.clr--green deben corroborarse desde el traslado inicial], cuando un funcionario atiende un requerimiento e inicia procesos administrativos y normativos para adecuar un cuerpo sin vida, y en la disposición final del cuerpo, ya sea por inhumación o cremación. #[strong.clr--red Recuerde que todo el proceso desarrollado en el servicio funerario debe asegurar la salud pública y la adecuación del cuerpo sin vida para las honras fúnebres.] 
 
 
     
