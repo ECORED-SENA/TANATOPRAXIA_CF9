@@ -152,7 +152,7 @@ export default {
     {
       referencia:
         'Superintendencia de Industria y Comercio. (s.f). Protección de datos personales: aspectos prácticos sobre el derecho de hábeas data.',
-      descarga:
+      link:
         'https://www.sic.gov.co/sites/default/files/files/Nuestra_Entidad/Publicaciones/Aspectos_Derecho_de_Habeas_Data.pdf',
     },
     {
@@ -213,7 +213,7 @@ export default {
       texto:
         'Superintendencia de Industria y Comercio (s.f). Protección de datos personales: aspectos prácticos sobre el derecho de hábeas data.',
       tipo: 'PDF',
-      descarga: '/downloads/Aspectos_Derecho_de_Habeas_Data.pdf',
+      descarga: '/downloads/Derecho_Habeas_Data.pdf',
     },
   ],
   creditos: {
