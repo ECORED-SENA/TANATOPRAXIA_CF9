@@ -213,7 +213,7 @@ export default {
       texto:
         'Superintendencia de Industria y Comercio (s.f). Protección de datos personales: aspectos prácticos sobre el derecho de hábeas data.',
       tipo: 'PDF',
-      descarga: '/downloads/Derecho_Habeas_Data.pdf',
+      descarga: ['/downloads/Derecho_Habeas_Data.pdf'],
     },
   ],
   creditos: {
