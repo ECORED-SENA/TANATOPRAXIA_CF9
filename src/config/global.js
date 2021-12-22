@@ -118,7 +118,7 @@ export default {
       referencia:
         'Heredia, N. (2019). La comunicación asertiva dentro de las agencias funerarias. NovusFunerario. ',
       link:
-        'https://novusfunerario.com.mx/la-comunicacion-asertiva-dentro-de-las-agencias-funerarias/  ',
+        'https://novusfunerario.com/la-comunicacion-asertiva-dentro-de-las-agencias-funerarias/',
     },
     {
       referencia:
@@ -201,7 +201,7 @@ export default {
         'Heredia, N. (2019). La comunicación asertiva dentro de las agencias funerarias. ',
       tipo: 'Página web',
       link:
-        'https://novusfunerario.com.mx/la-comunicacion-asertiva-dentro-de-las-agencias-funerarias/ ',
+        'https://novusfunerario.com/la-comunicacion-asertiva-dentro-de-las-agencias-funerarias/ ',
     },
     {
       texto:
